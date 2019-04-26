@@ -262,8 +262,7 @@ nav {
 }
 
 .navBar a {
-    margin: 40px;
-    margin-top: 62px;
+    margin: 62px 40px 40px 40px;
     text-decoration: none;
     color: black;
 }

@@ -261,8 +261,7 @@ nav {
 }
 
 .navBar a {
-  margin: 40px;
-  margin-top: 62px;
+  margin: 62px 40px 40px 40px;
   text-decoration: none;
   color: black;
 }
@@ -299,19 +298,14 @@ header {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-
-  margin-top: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin: 20px 20px 0px 20px;
 }
 
 .content-box {
   border-bottom: 1px dashed black;
   padding-bottom: 17px;
   width: 46.8%;
-  margin-top: 20px;
-  margin: 10px;
-  margin-bottom: 45px;
+  margin: 10px 10px 45px 10px;
 }
 
 .content-box p {
